@@ -1,0 +1,85 @@
+commit 064ded43822b6d32abf6b696c5a4b53666e6386f (HEAD -> master, origin/master, origin/HEAD)
+Author: gnavyas <navyagodavarti@gmail.com>
+Date:   Mon Jun 1 02:51:44 2020 +0530
+
+    removedevice
+
+commit 1fcba6de56ae694348761dc9a49ae7b2d2b14fb4
+Author: gnavyas <navyagodavarti@gmail.com>
+Date:   Mon Jun 1 02:20:24 2020 +0530
+
+    search
+
+commit 5b7aaf63ad6e4a64adddb095c2951d5db67259d3
+Author: gnavyas <navyagodavarti@gmail.com>
+Date:   Mon Jun 1 01:47:39 2020 +0530
+
+    search
+
+commit aed7802948b0d361ac6bfc77b3b716a88c317e2c
+Author: gnavyas <navyagodavarti@gmail.com>
+Date:   Mon Jun 1 01:36:15 2020 +0530
+
+    backend
+
+commit 26cbf9f4da689edb07f66af59543640b5c3632e6
+Author: gnavyas <navyagodavarti@gmail.com>
+Date:   Mon Jun 1 01:27:31 2020 +0530
+
+    config
+
+commit b77f42009aff8bc614d983b62e16408d0a915f6a
+Author: gnavyas <navyagodavarti@gmail.com>
+Date:   Mon Jun 1 01:22:09 2020 +0530
+
+    add
+
+commit cb7ff72f5c819de99c682aeb633962e635dafff6
+Author: gnavyas <navyagodavarti@gmail.com>
+Date:   Mon Jun 1 01:08:41 2020 +0530
+
+    config
+
+commit 5daf8b8e8c2b031a183f5282d29511c5721d1fa9
+Author: gnavyas <navyagodavarti@gmail.com>
+Date:   Mon Jun 1 01:02:51 2020 +0530
+
+    config
+
+commit d19b4618dac1861d0c392dd7a572fc2ceac55fde
+Author: gnavyas <navyagodavarti@gmail.com>
+Date:   Mon Jun 1 00:54:25 2020 +0530
+
+    config
+
+commit 3d310f1ea64478a9f5c05ebf89f5f03d08a57e7a
+Author: gnavyas <navyagodavarti@gmail.com>
+Date:   Mon Jun 1 00:31:34 2020 +0530
+
+    listdevs
+
+commit daf8924512765932bf51823c260aefd20214a228
+Author: gnavyas <navyagodavarti@gmail.com>
+Date:   Mon Jun 1 00:28:06 2020 +0530
+
+    list1
+
+commit ad437ee32029d6bfdce91b28067379268b9d5ccf
+Author: gnavyas <navyagodavarti@gmail.com>
+Date:   Mon Jun 1 00:14:39 2020 +0530
+
+    list
+
+commit f96aa37ad47f06a89a0bd44f1d91cc6ded5c996a
+Author: gnavyas <navyagodavarti@gmail.com>
+Date:   Sun May 31 23:43:06 2020 +0530
+
+    add
+
+commit 0cc043951b44fbacd55e14084a4810a18b010dcf
+Author: gnavyas <55198148+gnavyas@users.noreply.github.com>
+Date:   Sun May 31 23:38:13 2020 +0530
+
+    Initial commit
+(END)
+
