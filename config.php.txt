@@ -1,8 +1,7 @@
-
 <?php
 class mydb extends SQLite3 {
       function __construct() {
-         $this->open('mydatabase.db');
+         $this->open('navya.db');
       }
 }
 $db = new mydb();
