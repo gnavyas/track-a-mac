@@ -94,7 +94,7 @@ def probing_with_oids(ip, port, community, version, connection):
             portlan = '1'
             connection.execute("update List set VLANS = ? where port=?", (vlanname[i],vlansnum[i]))
             time.sleep(0.005)
-	    connection.commit()
+        connection.commit()
     except Exception as e:
         print(str(e)+' '+str(ip)+":"+str(port))
     finish = str(datetime.fromtimestamp(int(time.time())))
