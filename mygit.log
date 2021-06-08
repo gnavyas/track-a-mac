@@ -1,4 +1,22 @@
-commit d4f2b3aeed9d8c9d26640fbd35e38f6cc0b64cb7 (HEAD -> master, origin/master, origin/HEAD)
+commit bf764b69acb1c1f444670c10b20206dded66e72c (HEAD -> master, origin/master, origin/HEAD)
+Author: gnavyas <navyagodavarti@gmail.com>
+Date:   Tue Jun 8 20:16:18 2021 +0200
+
+    fix intendendation error
+
+commit 88ab570750a59860ae22e3a4788ae6c7f11792b6
+Author: gnavyas <navyagodavarti@gmail.com>
+Date:   Tue Jun 8 19:03:15 2021 +0200
+
+    Add excutable permissions to backend file
+
+commit a74dc1a85559f4473d21eb56d6a010968d527f9d
+Author: gnavyas <navyagodavarti@gmail.com>
+Date:   Sun Jun 6 13:24:57 2021 +0200
+
+    git
+
+commit d4f2b3aeed9d8c9d26640fbd35e38f6cc0b64cb7
 Author: gnavyas <navyagodavarti@gmail.com>
 Date:   Sun Jun 6 13:13:48 2021 +0200
 
@@ -8,14 +26,18 @@ commit 162cd83003eb329d128cf476120331293a58bd95
 Author: gnavyas <navyagodavarti@gmail.com>
 Date:   Sun Jun 6 13:12:13 2021 +0200
 
-    RD
 
-commit 08a7467e4391522ab12c8be45282204d5dee3d1e
+commit cde56d9ddfdf91955272dbe75c93fbd3ed8d2370
 Author: gnavyas <navyagodavarti@gmail.com>
-Date:   Sun Jun 6 13:10:37 2021 +0200
+Date:   Sun Jun 6 13:00:17 2021 +0200
 
-    python pkts
+    devices are added
 
-commit 20037e6696d043c7884ee8c2a1cc752932f9900d
-Author: gnavyas <navyagodavarti@gmail.com>
-Date:   Sun Jun 6 13:08:21 2021 +0200
+commit c48747cf66ba08c0dbad01abca50fba1e758e696
+Author: gnavyas <55198148+gnavyas@users.noreply.github.com>
+Date:   Sun Jun 6 12:55:54 2021 +0200
+
+    Initial commit
+~
+~
+~
